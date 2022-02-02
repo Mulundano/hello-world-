@@ -1,2 +1,2 @@
-# hello-world-
-This is an idea repository, where I will store some of my pending thoughts for coding projects. 
+# Mulundano Machiya
+I am a current university student studying physics with a computer science minor. I hope to expand my skills in coding and design projects that will genuinely help people.
